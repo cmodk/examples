@@ -1,4 +1,4 @@
-ources:
+resources:
 - name: concourse-examples
   type: git
   icon: github
